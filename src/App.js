@@ -3,8 +3,6 @@ import React from 'react'
 import Form from './loginForm/Components/form';
 import Home from "./loginForm/Components/home";
 
-import MainPage from './loginForm/Components/mainPage';
-
 import './App.css';
 
 function App() {
